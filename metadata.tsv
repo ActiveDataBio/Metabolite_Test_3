@@ -1,0 +1,8 @@
+id	temp	group
+#methods	t-test	no
+#type	Continuous	null
+#descriptions	some test data	no
+Sample1	0.628707203	a
+Sample2	0.73398962	a
+Sample3	0.911513432	b
+Sample4	0.610464388	b
